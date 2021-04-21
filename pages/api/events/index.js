@@ -1,4 +1,4 @@
-const {events} = require('./pages/data.json')
+const {events} = require('./data.json')
 
 export default (req, res) => {
   // 規定api輸入方式，僅限GET 
